@@ -1,0 +1,6 @@
+// BUILDROOT=/home/jasontofly/ArduPilot/ardupilot/Build.ArduCopter HAL_BOARD=HAL_BOARD_PX4 HAL_BOARD_SUBTYPE= TOOLCHAIN=NATIVE EXTRAFLAGS=-DGIT_VERSION="fd2eb8bb" -I/home/jasontofly/ArduPilot/ardupilot/libraries/AP_Common/missing -DMAVLINK_PROTOCOL_VERSION=2 -DNUTTX_GIT_VERSION="2456014f" -DPX4_GIT_VERSION="4a1d6880" -DUAVCAN=1 -DHAVE_STD_NULLPTR_T=0 -I/home/jasontofly/ArduPilot/ardupilot/Build.ArduCopter/libraries/GCS_MAVLink/include/mavlink
+Checking modules
+make[1]: Entering directory `/home/jasontofly/ArduPilot/ardupilot/modules/PX4Firmware'
+Skipping submodules. NUTTX_SRC is set to /home/jasontofly/ArduPilot/ardupilot/modules/PX4NuttX/nuttx/
+%% Configuring NuttX for px4fmu-v2
+make[4]: Nothing to be done for `clean'.
